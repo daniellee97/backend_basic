@@ -1,0 +1,14 @@
+{
+  "name": "newsletter-signup-proj",
+  "version": "1.0.0",
+  "description": "sign up page for news letter subscription",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Daniel Lee",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.2"
+  }
+}
